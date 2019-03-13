@@ -29,3 +29,5 @@ body.style.background = `#${color1.val}`;
 
 // color1.addEventListener('input', setGradient);
 // color2.addEventListener('input', setGradient);
+
+Another test
