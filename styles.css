@@ -21,4 +21,11 @@ h3 {
 
 input {
   text-align: center;
+  height: 50px;
+  width: 150px;
+}
+
+input[type='button'] {
+  display: block;
+  margin: 20px auto;
 }
